@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<nav class="$1">
+    <ul>
+        <li><a href="${2}">${3}</a></li>
+        <li><a href="${4}">${5}</a></li>
+        <li><a href="${6}">${7}</a></li>
+        <li><a href="${8}">${9}</a></li>
+        <li><a href="${10}">${11}</a></li>
+    </ul>
+</nav>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>navc</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope> 
+</snippet>

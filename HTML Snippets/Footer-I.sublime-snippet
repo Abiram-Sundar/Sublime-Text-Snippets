@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+<footer id="$1">
+    ${2://Content Here...}
+</footer>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>footi</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html</scope> 
+</snippet>
